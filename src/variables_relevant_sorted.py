@@ -19,13 +19,13 @@ DATA_TO_KEEP = [
     "V06CESD",  # FU SAQ:CES-D: Center for Epidemiologic Studies Depression Scale (CES-D) Score (calc)
 
     # coping strategies
-    "V06CSQCAT",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Catastrophizing (calc)
-    "V06CSQIGSN",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Ignoring Sensations (calc)
-    "V06CSQCSS",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Coping Self-Statements (calc)
-    "V06CSQDVAT",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Diverting Attention (calc)
-    "V06CSQRPS",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Reinterpreting Pain Sensations (calc)
-    "V06CSQPRHP",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Praying or Hoping (calc)
-    "V06CSQIBA",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Increased Behavioral Activities (calc)
+    "V06CSQCAT",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Catastrophizing
+    "V06CSQIGSN",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Ignoring Sensations
+    "V06CSQCSS",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Coping Self-Statements
+    "V06CSQDVAT",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Diverting Attention
+    "V06CSQRPS",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Reinterpreting Pain Sensations
+    "V06CSQPRHP",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Praying or Hoping
+    "V06CSQIBA",  # FU INT:CSQ: Coping Strategies Questionnaire Score, Increased Behavioral Activities
 
     # ADL
     "V06ADL1",
